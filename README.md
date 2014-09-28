@@ -1,2 +1,2 @@
-Its just for demonstrate a project
+Its just for demonstrate of a project
 ====
